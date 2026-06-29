@@ -1,2 +1,2 @@
 # Shell
-Schell Scripts update
+Schell Scripts update n delete
